@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          learn React and Docker, I got it man !!
+          Create new branch and pull request to amster
         </a>
       </header>
     </div>
